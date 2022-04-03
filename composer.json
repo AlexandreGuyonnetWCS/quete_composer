@@ -1,0 +1,16 @@
+{
+    "name": "alex/quete_composer",
+    "description": "quete composer",
+    "autoload": {
+        "psr-4": {
+            "Alex\\QueteComposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AlexandreGuyonnetWCS",
+            "email": "alexandre.guyonnet.pro@gmail.com"
+        }
+    ],
+    "require": {}
+}
