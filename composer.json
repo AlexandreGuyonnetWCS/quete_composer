@@ -1,9 +1,9 @@
 {
     "name": "alex/quete_composer",
     "description": "quete composer",
-    "autoload": {
+    "autoload": { 
         "psr-4": {
-            "Alex\\QueteComposer\\": "src/"
+            "Alex\\QueteComposer\\": "App/"
         }
     },
     "authors": [
