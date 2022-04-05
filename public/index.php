@@ -1,9 +1,9 @@
 <?php 
 
+require '../vendor/autoload.php';
 
-require_once '../vendor/autoload.php';
+use App\Wcs\Hello;
 
-use App\Hello;
 
 $message = new Hello;
 
